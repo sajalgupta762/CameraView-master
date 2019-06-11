@@ -55,24 +55,4 @@ donation or become a sponsor, in which case your company logo will immediately s
 Thank you for any contribution - it is a nice reward for what has been done until now, and a 
 motivation boost to push the library forward.
 
-## Backers
-
-Thanks to all backers! [Become a backer.](https://opencollective.com/cameraview#backer)
-
-<a href="https://opencollective.com/cameraview#backers" target="_blank"><img src="https://opencollective.com/cameraview/backers.svg?width=890"></a>
-
-## Sponsors
-
-Thanks to sponsors! [Become a sponsor](https://opencollective.com/cameraview#sponsor) and have your logo here.
-
-<a href="https://opencollective.com/cameraview/sponsor/0/website" target="_blank"><img src="https://opencollective.com/cameraview/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/cameraview/sponsor/1/website" target="_blank"><img src="https://opencollective.com/cameraview/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/cameraview/sponsor/2/website" target="_blank"><img src="https://opencollective.com/cameraview/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/cameraview/sponsor/3/website" target="_blank"><img src="https://opencollective.com/cameraview/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/cameraview/sponsor/4/website" target="_blank"><img src="https://opencollective.com/cameraview/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/cameraview/sponsor/5/website" target="_blank"><img src="https://opencollective.com/cameraview/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/cameraview/sponsor/6/website" target="_blank"><img src="https://opencollective.com/cameraview/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/cameraview/sponsor/7/website" target="_blank"><img src="https://opencollective.com/cameraview/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/cameraview/sponsor/8/website" target="_blank"><img src="https://opencollective.com/cameraview/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/cameraview/sponsor/9/website" target="_blank"><img src="https://opencollective.com/cameraview/sponsor/9/avatar.svg"></a>
 
